@@ -1,0 +1,19 @@
+{
+  "name": "pwa-exp",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vite": "^3.1.4"
+  }
+}
